@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: infofun
+        psr4_prefix: infofun
+        src_path: app
